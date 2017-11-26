@@ -2,8 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from collections import namedtuple
 
-matplotlib.use()
-
 
 def bezier_linear(p1, p2, t):
     return (1.0 - t) * p1 + t * p2
