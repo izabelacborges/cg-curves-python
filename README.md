@@ -13,7 +13,7 @@
 ## Implementação
 
 O trabalho foi implementado em Python 3.6 utilizando as bibliotecas `numpy` pela
-facilidade em tratar de operações numéricas, e `matplotlib` para plotar as
+facilidade em tratar de operações numéricas em arrays e tuplas, e `matplotlib` para plotar as
 imagens das curvas. A interatividade é feita pelo uso do módulo `nbagg` dentro
 dos Jupyter notebooks.
 
