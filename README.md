@@ -110,7 +110,7 @@ Você então estará numa interface/IDE interativa do Python chamada Jupyter.
 Na interface/IDE Jupyter você terá uma visão de todos os arquivos e diretórios a
 partir de onde lançou o comando no terminal (seguindo este tutorial você deverá
 estar dentro do `cg-curves-python`). Deverá existir um arquivo chamado
-`curves.ipynb`, clique nele por favor.
+`bezier.ipynb` e um arquivo chamado `interpolated.ipynb`, abra ambos por favor.
 
 Agora você já está no ambiente interativo! Para executar o código, você deverá
 clicar na primeira célula e apertar `Shift + Enter` sucessivamente até que seja
