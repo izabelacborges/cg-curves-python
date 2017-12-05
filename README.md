@@ -119,4 +119,14 @@ gerado um grid interativo com o título 'Figure 1'.
 Para plotar as curvas você deve marcar os pontos desejados clicando com o botão
 esquerdo do mouse, e enfim clicar no grid com o botão direito do mouse. (Se tudo
 der certo,) A curva será gerada a partir destes cliques, mostrando além da curva
-o polígono formado pelos pontos.
+as retas entre os pontos.
+
+Os resultados gerados foram as imagens a seguir:
+
+#### Bezier
+
+![](https://github.com/izabelacborges/cg-curves-python/blob/master/imagens/bezier.png)
+
+#### Interpolada
+
+![](https://github.com/izabelacborges/cg-curves-python/blob/master/imagens/interpolada.png)
