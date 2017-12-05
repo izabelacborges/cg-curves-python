@@ -13,7 +13,7 @@
 ## Implementação
 
 O trabalho foi implementado em Python 3.6 utilizando as bibliotecas `numpy` pela
-facilidade em tratar de operações numéricas, e `matplotlib` para plotar as
+facilidade em tratar de operações numéricas em arrays e tuplas, e `matplotlib` para plotar as
 imagens das curvas. A interatividade é feita pelo uso do módulo `nbagg` dentro
 dos Jupyter notebooks.
 
@@ -110,7 +110,7 @@ Você então estará numa interface/IDE interativa do Python chamada Jupyter.
 Na interface/IDE Jupyter você terá uma visão de todos os arquivos e diretórios a
 partir de onde lançou o comando no terminal (seguindo este tutorial você deverá
 estar dentro do `cg-curves-python`). Deverá existir um arquivo chamado
-`curves.ipynb`, clique nele por favor.
+`bezier.ipynb` e um arquivo chamado `interpolated.ipynb`, abra ambos por favor.
 
 Agora você já está no ambiente interativo! Para executar o código, você deverá
 clicar na primeira célula e apertar `Shift + Enter` sucessivamente até que seja
