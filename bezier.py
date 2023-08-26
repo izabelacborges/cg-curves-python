@@ -32,15 +32,13 @@ def callback(evento):
     global  lista_pontos
     if evento.button==1 and evento.inaxes:
         x, y = evento.xdata, evento.ydata
-      
+
         lista_pontos.append((x,y))  
         plt.plot(x, y, 'bo') 
-       
+
     elif evento.button==3:
         plot_curva_bezier(lista_pontos) 
-        plt.draw()     
-    
-    else: pass
+        plt.draw()
 
 def eixos_bezier():
     figura = plt.figure(figsize=(6, 5))
